@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BQ4050RSMR")(type "KiCad")(uri "${KIPRJMOD}/BQ4050/BQ4050RSMR.kicad_sym")(options "")(descr ""))
+)

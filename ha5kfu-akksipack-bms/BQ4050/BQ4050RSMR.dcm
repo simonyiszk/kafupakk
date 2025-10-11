@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ4050RSMR
+D 1-4 Series CEDV Battery Fuel (Gas) Gauge
+K
+F http://www.ti.com/lit/gpn/bq4050
+$ENDCMP
+#
+#End Doc Library
