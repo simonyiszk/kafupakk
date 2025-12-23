@@ -5850,7 +5850,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02038a7c-07a0-45f3-8af4-9bcbbfc5e9c4")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR06"
 			(at 143.51 151.13 0)
 			(effects
 				(font
@@ -5900,7 +5900,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "#PWR04")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -5934,7 +5934,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.75sqmm_1x02_P4.8mm_D1.25mm_OD2.3mm"
+		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
 			(at 262.89 43.18 0)
 			(effects
 				(font
@@ -5986,7 +5986,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02b200e6-5096-4db9-9657-e2e1c4c83be1")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR03"
 			(at 242.57 127 0)
 			(effects
 				(font
@@ -6036,7 +6036,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "#PWR09")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -6140,7 +6140,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 91.1352 104.14 0)
 			(effects
 				(font
@@ -6208,7 +6208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 185.42 29.5148 0)
 			(effects
 				(font
@@ -6276,7 +6276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 74.93 89.662 90)
 			(effects
 				(font
@@ -6328,7 +6328,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11729503-7763-40f3-9565-ce5e3fd667ae")
-		(property "Reference" "IC2"
+		(property "Reference" "IC1"
 			(at 170.18 78.74 0)
 			(effects
 				(font
@@ -6344,7 +6344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BQ4050:QFN40P400X400X100-33N-D"
+		(property "Footprint" "Package_DFN_QFN:VQFN-32-1EP_4x4mm_P0.4mm_EP2.8x2.8mm"
 			(at 201.93 201.6 0)
 			(effects
 				(font
@@ -6545,7 +6545,7 @@
 		(instances
 			(project ""
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "IC2")
+					(reference "IC1")
 					(unit 1)
 				)
 			)
@@ -6577,7 +6577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 74.93 49.022 90)
 			(effects
 				(font
@@ -6706,7 +6706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25dabb6c-a824-4deb-855f-9406a50b55ac")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR02"
 			(at 276.86 123.19 0)
 			(effects
 				(font
@@ -6756,7 +6756,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "#PWR010")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -6912,7 +6912,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "286f8b39-206e-4b60-900f-944724d90f6b")
-		(property "Reference" "R19"
+		(property "Reference" "R20"
 			(at 67.31 126.9999 0)
 			(effects
 				(font
@@ -6930,7 +6930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 62.992 128.27 90)
 			(effects
 				(font
@@ -6966,7 +6966,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "R19")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -7125,7 +7125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30dd20e2-baa6-4fc4-90c1-846bd6c5392b")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR04"
 			(at 193.04 133.35 0)
 			(effects
 				(font
@@ -7175,7 +7175,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "#PWR02")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -7279,7 +7279,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 148.082 77.47 90)
 			(effects
 				(font
@@ -7399,7 +7399,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3716f18d-5cbb-4b01-9b69-5225c46e25d5")
-		(property "Reference" "R20"
+		(property "Reference" "R21"
 			(at 107.95 127 90)
 			(effects
 				(font
@@ -7415,7 +7415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 107.95 135.128 90)
 			(effects
 				(font
@@ -7451,7 +7451,7 @@
 		(instances
 			(project ""
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "R20")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -7466,7 +7466,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "38263a5a-4fdb-4a68-8aa0-86703c85a7e9")
-		(property "Reference" "100n1"
+		(property "Reference" "C10"
 			(at 107.95 156.21 90)
 			(effects
 				(font
@@ -7474,7 +7474,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 107.95 153.67 90)
 			(effects
 				(font
@@ -7482,7 +7482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 111.76 147.6248 0)
 			(effects
 				(font
@@ -7518,7 +7518,7 @@
 		(instances
 			(project ""
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "100n1")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -7552,7 +7552,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 165.608 60.96 90)
 			(effects
 				(font
@@ -7622,7 +7622,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 62.992 76.2 90)
 			(effects
 				(font
@@ -7751,7 +7751,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d5cdc4f-0597-45e8-80a8-18e686dd9953")
-		(property "Reference" "R22"
+		(property "Reference" "R23"
 			(at 118.11 139.6999 0)
 			(effects
 				(font
@@ -7769,7 +7769,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 117.348 140.97 90)
 			(effects
 				(font
@@ -7805,7 +7805,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "R22")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -7813,17 +7813,15 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 26.67 71.12 0)
-		(mirror y)
+		(at 26.67 71.12 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4fa4b1d4-0cf8-45d7-9e84-2f2097741c6f")
 		(property "Reference" "J2"
-			(at 26.67 62.23 0)
+			(at 26.67 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7831,14 +7829,14 @@
 			)
 		)
 		(property "Value" "PACK1"
-			(at 26.67 64.77 0)
+			(at 26.67 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
 			(at 26.67 71.12 0)
 			(effects
 				(font
@@ -7911,7 +7909,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 91.1352 63.5 0)
 			(effects
 				(font
@@ -8061,7 +8059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 148.082 48.26 90)
 			(effects
 				(font
@@ -8129,7 +8127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 167.64 29.5148 0)
 			(effects
 				(font
@@ -8273,7 +8271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 147.32 95.758 90)
 			(effects
 				(font
@@ -8317,17 +8315,15 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 26.67 111.76 0)
-		(mirror y)
+		(at 26.67 111.76 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6a85fecf-c55a-4ff3-9ab8-08df44758b7f")
 		(property "Reference" "J3"
-			(at 26.67 102.87 0)
+			(at 26.67 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8335,14 +8331,14 @@
 			)
 		)
 		(property "Value" "PACK2"
-			(at 26.67 105.41 0)
+			(at 26.67 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
 			(at 26.67 111.76 0)
 			(effects
 				(font
@@ -8413,7 +8409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 226.06 46.482 90)
 			(effects
 				(font
@@ -8483,7 +8479,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 244.8052 80.01 0)
 			(effects
 				(font
@@ -8553,7 +8549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 62.992 96.52 90)
 			(effects
 				(font
@@ -8675,7 +8671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9999fd50-ec02-471e-96b2-f10a8d725408")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR010"
 			(at 228.6 151.13 0)
 			(effects
 				(font
@@ -8725,7 +8721,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "#PWR08")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -8757,7 +8753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 74.93 69.342 90)
 			(effects
 				(font
@@ -8808,7 +8804,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a2e48406-e11d-42fe-a293-6d3c35b15788")
-		(property "Reference" "R21"
+		(property "Reference" "R22"
 			(at 102.87 139.7 0)
 			(effects
 				(font
@@ -8826,7 +8822,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 102.108 140.97 90)
 			(effects
 				(font
@@ -8862,7 +8858,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "R21")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -8966,7 +8962,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 91.1352 127 0)
 			(effects
 				(font
@@ -9017,7 +9013,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af82348a-d669-4974-b13f-68c92a91b7e1")
-		(property "Reference" "R18"
+		(property "Reference" "R19"
 			(at 209.55 125.73 90)
 			(effects
 				(font
@@ -9033,7 +9029,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 209.55 121.158 90)
 			(effects
 				(font
@@ -9069,7 +9065,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "R18")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -9102,7 +9098,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 196.342 77.47 90)
 			(effects
 				(font
@@ -9238,7 +9234,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 91.1352 83.82 0)
 			(effects
 				(font
@@ -9308,7 +9304,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 183.388 60.96 90)
 			(effects
 				(font
@@ -9360,7 +9356,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4c8e415-862e-43cc-a98a-c2242517ed1a")
-		(property "Reference" "R23"
+		(property "Reference" "R18"
 			(at 270.51 119.38 90)
 			(effects
 				(font
@@ -9376,7 +9372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 270.51 114.808 90)
 			(effects
 				(font
@@ -9412,7 +9408,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "R23")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -9446,7 +9442,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 62.992 55.88 90)
 			(effects
 				(font
@@ -9655,7 +9651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3a69238-ac96-427d-8d04-41007cb0ee54")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR07"
 			(at 149.86 151.13 0)
 			(effects
 				(font
@@ -9705,7 +9701,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "#PWR05")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -9736,7 +9732,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 209.55 110.998 90)
 			(effects
 				(font
@@ -9864,7 +9860,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dab4e859-3c6a-4d17-b4af-533d0253e715")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR09"
 			(at 205.74 151.13 0)
 			(effects
 				(font
@@ -9914,7 +9910,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "#PWR07")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -9946,7 +9942,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 74.93 109.982 90)
 			(effects
 				(font
@@ -10016,7 +10012,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 189.992 48.26 90)
 			(effects
 				(font
@@ -10068,7 +10064,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e041f1fb-514b-4485-929c-1df82997de4f")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR08"
 			(at 193.04 151.13 0)
 			(effects
 				(font
@@ -10118,7 +10114,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "#PWR06")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -10134,7 +10130,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2665cdb-c137-480c-a288-46ea15e1e75c")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR05"
 			(at 90.17 142.24 0)
 			(effects
 				(font
@@ -10184,7 +10180,7 @@
 		(instances
 			(project "ha5kfu-akksipack-bms"
 				(path "/9e1c3fa4-5fbe-43ed-babf-081bbfb08ec5"
-					(reference "#PWR03")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -10288,7 +10284,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 244.8052 87.63 0)
 			(effects
 				(font
@@ -10356,7 +10352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 209.55 100.838 90)
 			(effects
 				(font
